@@ -52,6 +52,7 @@ Linux Terminal Menggunakan Google Colab [v]
 
  ## 6. Mencoba Scratch Bahasa Indonesia
  
+ 
 
 
 
