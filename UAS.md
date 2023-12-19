@@ -57,16 +57,16 @@ Linux Terminal Menggunakan Google Colab [v]
 ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 
-## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+## 8. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 
-## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 
-## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 
-## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer PostgreSQL
 Referensi tambahan 1
