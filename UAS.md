@@ -52,7 +52,7 @@ Linux Terminal Menggunakan Google Colab [v]
 
  ## 6. Mencoba Scratch Bahasa Indonesia
  
-## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## .Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
@@ -205,6 +205,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+<img width="933" alt="Screenshot 2023-12-19 160240" src="https://github.com/jashimafitariaa/UAS/assets/148786198/dea79f29-40ef-4776-a363-b203cc1fcdaf">
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
