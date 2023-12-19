@@ -191,27 +191,27 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
 
-## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## 45. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 
-## Eksplorasi Top Github Project yang Diminati ⭐⭐
+## 48. Eksplorasi Top Github Project yang Diminati ⭐⭐
 
 
-## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 
-## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## 50. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 <img width="933" alt="Screenshot 2023-12-19 160240" src="https://github.com/jashimafitariaa/UAS/assets/148786198/dea79f29-40ef-4776-a363-b203cc1fcdaf">
 
-
-## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
+## 51. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+1. <img width="960" alt="Screenshot 2023-12-16 110823" src="https://github.com/jashimafitariaa/UAS/assets/148786198/2fa0ce53-408e-48a6-a752-d55cbe7c5e67">
+2. <img width="960" alt="Screenshot 2023-12-19 163101" src="https://github.com/jashimafitariaa/UAS/assets/148786198/131e7c1f-743b-4967-b2dc-774dd0921d66">
 
 ## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
