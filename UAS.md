@@ -51,8 +51,10 @@ Linux Terminal Menggunakan Google Colab [v]
  <img width="960" alt="Screenshot 2023-12-17 214813" src="https://github.com/jashimafitariaa/UAS/assets/148786198/e3f4bd34-e0dd-43bc-83ae-0fb0640b1af1">
 
  ## 6. Mencoba Scratch Bahasa Indonesia
+ <img width="960" alt="Screenshot 2023-12-19 103553" src="https://github.com/jashimafitariaa/UAS/assets/148786198/4f0a9081-da9e-4611-8d2c-9eb4398b1b30">
+ <img width="960" alt="Screenshot 2023-12-19 103610" src="https://github.com/jashimafitariaa/UAS/assets/148786198/15726288-4785-4fd8-8330-d6bc412f96fb">
  
-## .Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
@@ -211,7 +213,8 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 
-## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
 
 
 
