@@ -204,6 +204,10 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-19 171406" src="https://github.com/jashimafitariaa/UAS/assets/148786198/43ce0c8c-3351-4e05-b25e-7b62972a0d49">
+<img width="960" alt="Screenshot 2023-12-19 172144" src="https://github.com/jashimafitariaa/UAS/assets/148786198/65ec1dde-534c-41a0-9195-12fcf349df94">
+
+
 
 
 ## 50. Membangun Profil Github Page ⭐⭐⭐⭐⭐
