@@ -190,6 +190,7 @@ dari beberapa profesi yang terlampir diatas saya sangat tertarik padaa business 
 
 
 ## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+https://invite.duolingo.com/BDHTZTB5CWWKT7XTTFK7K4C52A
 
 
 ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
