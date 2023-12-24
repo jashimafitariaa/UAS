@@ -129,7 +129,10 @@ Referensi []
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
 
-## 24. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 24. Mencoba Penggunaan Content Management System (Wordpress) ⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-25 061244" src="https://github.com/jashimafitariaa/UAS/assets/148786198/647e2ede-9f1a-4393-90f0-8f6447b8ca66">
+https://jashimafitaria1.wordpress.com/2023/12/17/kebersamaan-dan-toleransi-hukum-seorang-muslim-mengucapkan-natal/
+
 
 
 ## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
@@ -222,6 +225,7 @@ saya tertarik pada topik full stack, karena full stack ini juga menjadi salah sa
 
 
 ## 48. Eksplorasi Top Github Project yang Diminati ⭐⭐
+dari sekian banya top github project, saya tertarik pada bootstarp, bootstarp salah satu kerangka kerja HTML , CSS , dan JavaScript paling populer untuk mengembangkan situs web responsif. Bootstrap seperti penyelamat bagi pemula karena membuat segalanya lebih mudah bagi. 
 
 
 ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
