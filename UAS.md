@@ -210,6 +210,8 @@ Menurut yang saya baca ada banyak sekali lowongan pekerjaan IT yang dibutuhkn di
 
 
 ## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+![full-stack_page-0001](https://github.com/jashimafitariaa/UAS/assets/148786198/05efc6bf-a133-4069-84de-cb298d3ce7c4)
+saya tertarik pada topik full stack, karena full stack ini juga menjadi salah satu incaran perusahaan-perusahaan 
 
 
 ## 48. Eksplorasi Top Github Project yang Diminati ⭐⭐
