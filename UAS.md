@@ -55,7 +55,8 @@ Linux Terminal Menggunakan Google Colab [v]
  <img width="960" alt="Screenshot 2023-12-19 103610" src="https://github.com/jashimafitariaa/UAS/assets/148786198/15726288-4785-4fd8-8330-d6bc412f96fb">
  
 ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-
+<img width="960" alt="Screenshot 2023-12-24 201308" src="https://github.com/jashimafitariaa/UAS/assets/148786198/57040953-6d45-433b-b762-43cfc4ed72fd">
+<img width="960" alt="Screenshot 2023-12-24 201319" src="https://github.com/jashimafitariaa/UAS/assets/148786198/bf22e6cc-f5bb-4bc3-93d3-2d93138f0c97">
 
 ## 8. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -192,6 +193,13 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## 45. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Menurut yang saya baca ada banyak sekali lowongan pekerjaan IT yang dibutuhkn di Bandung seperti 
+1. tokoweb.co mereka membutuhkan Helpdesk IT Support,
+2. PT Sukma Karya Tama membutuhkan seorang IT Support,
+3. PT KURNIA ASTASURYA membutuhkan seorang IT Programmer,
+4. Diksha Teknologi Indonesia mebutuhkan seorang IT Engineer,
+5. FootPrint.com membutuhkan seorang IT Full Stack,
+6. PT.HASASI INTERNATIONAL membutuhkan seorang IT Manager
 
 
 ## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
