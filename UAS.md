@@ -207,6 +207,13 @@ Menurut yang saya baca ada banyak sekali lowongan pekerjaan IT yang dibutuhkn di
 
 
 ## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+ada banyal lowongan freelancer IT yang saya dapat dari freelancer.com
+1. PHP > 1608 jobs
+2. HTML >1244 JOBS
+3. JavaScript > 618 jobs
+4. Software Architecture > 566 jobs
+5. MySQL > 493 jobs
+6. WordPress > 468 jobs
 
 
 ## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
