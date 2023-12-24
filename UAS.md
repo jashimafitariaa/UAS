@@ -72,12 +72,12 @@ Linux Terminal Menggunakan Google Colab [v]
 Referensi installer PostgreSQL
 Referensi tambahan 1
 
-## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+## 12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Referensi installer Dbeaver
 Referensi 1
 
-## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
 
 Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
@@ -85,15 +85,15 @@ Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasik
 Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 
-## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: 1
 
-## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: 1 2
 
-## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 Referensi tutorial
 
@@ -105,91 +105,94 @@ Interaktivitas halaman web : JavaScript
 
 
 
-## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
 
-## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 
-## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 
-## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
 
-## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 24. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 
-## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 
-## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 
-## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 
-## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 
-## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 
-## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 32. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 
-## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 33. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 
-## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 
-## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## 36. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 
-## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 37. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 
-## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 
-## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 
-## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 
-## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+## 41. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 
-## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati⭐⭐⭐⭐
+![foto profesi IF](https://github.com/jashimafitariaa/UAS/assets/148786198/5464c971-4e36-47e9-998d-c69729532020)
+dari beberapa profesi yang terlampir diatas saya sangat tertarik padaa business analyst, karena saya sangat suka dunia bisnis dari sejak SD saya suda mencoba untuk berbisnis dan saya juga memiliki dalam hal programming jadi saya kira business analiyst adalah profesi yang cocok dengan kemampuan yang saya miliki.
 
 
-## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+
+## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
 
 ## 45. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
