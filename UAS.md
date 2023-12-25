@@ -85,9 +85,9 @@ Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasik
 Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 
-## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) ⭐⭐
 
-Referensi: 1
+
 
 ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
@@ -109,22 +109,22 @@ Interaktivitas halaman web : JavaScript
 
 Referensi []
 
-## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 18. Mencoba Pembuatan File JSON ⭐⭐⭐
 
 
-## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML ⭐⭐⭐
 
 
-## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service ⭐⭐⭐
 
 
-## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman  ⭐⭐
 
 
-## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)  ⭐⭐⭐⭐⭐
 
 
-## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) ⭐⭐
 
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
@@ -141,46 +141,51 @@ https://jashimafitaria1.wordpress.com/2023/12/17/kebersamaan-dan-toleransi-hukum
 ## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 
-## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo ⭐⭐
 
 
-## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab ⭐⭐⭐
 
 
-## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 29. Mencoba Web Tool AI Discriminative (Image Classification) ⭐⭐⭐⭐
 
 
-## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) ⭐⭐⭐⭐
 
 
-## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace⭐⭐⭐
 
 
-## 32. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 32. Mencoba Data Visualization Dengan Tools ⭐⭐
 
 
-## 33. Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 33. Mencoba Data Visualization Dengan Code  ⭐⭐
 
 
-## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-25 061638" src="https://github.com/jashimafitariaa/UAS/assets/148786198/84e001e5-1fe8-4c96-80ac-cac22caff8d9">
+pada HuggungFace ini terdapat banyak sekali fitur, kita bisa melihat code yang telah dikin oleh orang lain, bisa melihat jobs yang banyak dibutuhkan di dunia 
 
 
-## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 35. Mendaftar dan Mencoba Eksplorasi Kaggle ⭐⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-25 062207" src="https://github.com/jashimafitariaa/UAS/assets/148786198/06dc08a8-f386-4055-ad65-ce55d607eefa">
+pada kaggle terdapat banyak fitur yang bisa kita gunakan dan sangat membantu yaitu ada datasets, competitions, models,code dicussion dan lain-lai
 
 
-## 36. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+
+## 36. Mencoba Protokol Komunikasi IoT (MQTT) ⭐
 
 
-## 37. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 37. Mencoba Memproses File CSV Menggunakan Google Colab ⭐⭐
 
 
-## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab ⭐⭐
 
 
-## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal ⭐⭐⭐⭐⭐
 
 
-## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) ⭐⭐⭐⭐
 
 
 ## 41. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
@@ -232,9 +237,6 @@ dari sekian banya top github project, saya tertarik pada bootstarp, bootstarp sa
 <img width="960" alt="Screenshot 2023-12-19 171406" src="https://github.com/jashimafitariaa/UAS/assets/148786198/43ce0c8c-3351-4e05-b25e-7b62972a0d49">
 <img width="960" alt="Screenshot 2023-12-19 172144" src="https://github.com/jashimafitariaa/UAS/assets/148786198/65ec1dde-534c-41a0-9195-12fcf349df94">
 
-
-
-
 ## 50. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 <img width="933" alt="Screenshot 2023-12-19 160240" src="https://github.com/jashimafitariaa/UAS/assets/148786198/dea79f29-40ef-4776-a363-b203cc1fcdaf">
 
@@ -243,6 +245,9 @@ dari sekian banya top github project, saya tertarik pada bootstarp, bootstarp sa
 2. <img width="960" alt="Screenshot 2023-12-19 163101" src="https://github.com/jashimafitariaa/UAS/assets/148786198/131e7c1f-743b-4967-b2dc-774dd0921d66">
 
 ## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-25 073008" src="https://github.com/jashimafitariaa/UAS/assets/148786198/ed3d4bdc-05b5-414a-9407-4115701ab2ab">
+pada buku ini dijelaskan dasar-dasar informatika dan mempelajari  tentang pengolahahan data, pemprosesan data, penyimpanan data, manipulasi data dan masih banyak lagi yang dapat kita pelajari di sana.
+
 
 
 
