@@ -59,6 +59,7 @@ Linux Terminal Menggunakan Google Colab [v]
 <img width="960" alt="Screenshot 2023-12-24 201319" src="https://github.com/jashimafitariaa/UAS/assets/148786198/bf22e6cc-f5bb-4bc3-93d3-2d93138f0c97">
 
 ## 8. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+Integrated Development Environment adalah rangkaian software yang menyatukan semua tool pengembangan menjadi satu GUI (Graphical User Interface). Dengannya, proses pengembangan bisa menjadi lebih efisien dan lebih cepat.Contohnya seperti NetBeans, Android studio, Adobe Flex Builder dan lain-lain.
 
 
 ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
