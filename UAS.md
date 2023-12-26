@@ -91,8 +91,13 @@ Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokoped
 
 
 ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+Ada banyak sekali domain yang digunakan. Top Level Domain ada : .com(commercial) , .org(organization), .net ( network), .gov(goverment), .mil(military).
+dan ada juga Country code Top Level Domain yaitu : .us (united states), .jp (jepang), .id(indonesia)
+dan ada juga generic Top Level Domain seperti : .edu(edukasi),.mil , .gov,.org, .net
+kemudian yang terakhir ada second Level Domain seperti : .co.id,.ac.id, .gov.in
+<img width="960" alt="Screenshot 2023-12-26 090707" src="https://github.com/jashimafitariaa/UAS/assets/148786198/5944d036-8e72-44a0-9619-21607dd359a0">
+pada gambar diatas terlihat ada yg menggunakan second Level Domain yaitu .ac.id domain ini biasa digunakan untuk pendidikan dan itu di indonesia, kemudian yang kedua kita melihat web tersebuat menggunakan domain .com yang berarti commercial,da yang ketiga juga menggunakan .com yangbberarti commercial.
 
-Referensi terkait: 1 2
 
 ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
