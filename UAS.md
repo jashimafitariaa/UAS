@@ -189,6 +189,10 @@ pada kaggle terdapat banyak fitur yang bisa kita gunakan dan sangat membantu yai
 
 
 ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal ⭐⭐⭐⭐⭐
+1. JURNAL : Jurnal adalah publikasi periodik yang berisi artikel-artikel ilmiah, ulasan, atau laporan penelitian yang ditulis oleh para peneliti atau akademisi di bidang tertentu. fungsi jurnal adalah untuk menyebarkan informasi baru, hasil penelitian, atau pemikiran ilmiah kepada komunitas akademis dan profesional.
+2. conferense : conference adalah pertemuan akademis di mana para peneliti, ilmuwan, dan profesional berkumpul untuk berbagi pengetahuan, hasil penelitian terbaru, dan pengalaman di bidang tertentu. fungsi conference adalah memberikan platform bagi para akademisi untuk berinteraksi, berkolaborasi, dan mendiskusikan topik-topik terkini dalam suatu disiplin ilmu.
+3. Artikel : Artikel adalah  tulisan yang mencakup hasil penelitian, analisis, atau pemikiran ilmiah. Artikel ini biasanya diterbitkan dalam jurnal, konferensi, buku, atau media lainnya. fungsi artikel adalah menyampaikan informasi baru, memberikan dukungan empiris bagi suatu argumen, atau mengulas literatur ilmiah.
+4. Grade Jurnal : Grade jurnal adalah peringkat atau klasifikasi kualitas suatu jurnal ilmiah. Peringkat ini dapat mencerminkan prestise, dampak, atau reputasi jurnal dalam komunitas ilmiah. fungsi grade jurnal adalah membantu para peneliti dan pembaca untuk mengevaluasi kredibilitas dan relevansi suatu jurnal. Peringkat sering kali diberikan oleh lembaga atau organisasi yang mengkhususkan diri dalam evaluasi publikasi ilmiah, seperti Clarivate Analytics dengan jurnal impact factor atau Scimago Journal & Country Rank.  
 
 
 ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) ⭐⭐⭐⭐
