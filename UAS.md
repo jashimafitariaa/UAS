@@ -123,14 +123,8 @@ pada gambar diatas terlihat ada yg menggunakan second Level Domain yaitu .ac.id 
 
 ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial
 
-Isi konten halaman web : HTML
-
-Styling halaman web : CSS
-
-Interaktivitas halaman web : JavaScript
-
+https://docs.google.com/document/d/1KW8PJoR8iPlxFyf8XLDSU-P6-mtv1lB6oEDH-ow7h0s/edit?usp=sharing
 
 
 ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML ⭐⭐⭐
