@@ -146,6 +146,16 @@ Jenis-jenis SEO:
    fokus utamanya pada Keyword lokal, profil bisnis, Ulasan pelanggan dan konten lokal.
 
 ## 18. Mencoba Pembuatan File JSON ⭐⭐⭐
+{
+  "nama": "Jashima Fitrariya",
+  "umur": 18,
+  "alamat": {
+    "jalan": "Tgk Hasan",
+    "kecamatan":"Lueng Bata",
+    "kota": "Banda Aceh"
+  },
+  "hobi": ["bernyanyi", "travelling"]
+}
 
 
 ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML ⭐⭐⭐
