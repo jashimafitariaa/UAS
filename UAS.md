@@ -212,6 +212,8 @@ https://invite.duolingo.com/BDHTZTB5CWWKT7XTTFK7K4C52A
 
 
 ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+![hellotalk](https://github.com/jashimafitariaa/UAS/assets/148786198/c8102c42-112a-45df-ae01-ddec9b535b67)
+
 
 
 ## 45. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
