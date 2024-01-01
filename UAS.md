@@ -54,7 +54,7 @@ Linux Terminal Menggunakan Google Colab [v]
  <img width="960" alt="Screenshot 2023-12-19 103553" src="https://github.com/jashimafitariaa/UAS/assets/148786198/4f0a9081-da9e-4611-8d2c-9eb4398b1b30">
  <img width="960" alt="Screenshot 2023-12-19 103610" src="https://github.com/jashimafitariaa/UAS/assets/148786198/15726288-4785-4fd8-8330-d6bc412f96fb">
  
-## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 7. Mencoba Algoritma Bubble Sort Menggunakan Java  ⭐⭐⭐
 <img width="960" alt="Screenshot 2023-12-24 201308" src="https://github.com/jashimafitariaa/UAS/assets/148786198/57040953-6d45-433b-b762-43cfc4ed72fd">
 <img width="960" alt="Screenshot 2023-12-24 201319" src="https://github.com/jashimafitariaa/UAS/assets/148786198/bf22e6cc-f5bb-4bc3-93d3-2d93138f0c97">
 
@@ -62,23 +62,26 @@ Linux Terminal Menggunakan Google Colab [v]
 Integrated Development Environment adalah rangkaian software yang menyatukan semua tool pengembangan menjadi satu GUI (Graphical User Interface). Dengannya, proses pengembangan bisa menjadi lebih efisien dan lebih cepat.Contohnya seperti NetBeans, Android studio, Adobe Flex Builder dan lain-lain.
 
 
-## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank  ⭐⭐⭐⭐⭐
 
 
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 
-## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)  ⭐⭐⭐
+MySQL :
+<img width="960" alt="Screenshot 2024-01-01 160250" src="https://github.com/jashimafitariaa/UAS/assets/148786198/0544ae7b-c227-4bc1-a02e-b5759b90ea41">
+PSQL :
+<img width="960" alt="Screenshot 2024-01-01 161938" src="https://github.com/jashimafitariaa/UAS/assets/148786198/f0d5e055-8bae-4eca-9a82-d78bea6a9db3">
 
-Referensi installer PostgreSQL
-Referensi tambahan 1
 
-## 12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+
+## 12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) ⭐⭐⭐
 
 Referensi installer Dbeaver
 Referensi 1
 
-## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML ⭐⭐⭐⭐
 
 
 Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
