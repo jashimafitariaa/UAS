@@ -1,0 +1,10 @@
+{
+  "nama": "Jashima Fitrariya",
+  "umur": 18,
+  "alamat": {
+    "jalan": "Tgk Hasan",
+    "kecamatan":"Lueng Bata",
+    "kota": "Banda Aceh"
+  },
+  "hobi": ["bernyanyi", "travelling"]
+}
