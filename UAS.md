@@ -64,6 +64,7 @@ Integrated Development Environment adalah rangkaian software yang menyatukan sem
 
 ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank  ⭐⭐⭐⭐⭐
 <img width="960" alt="Screenshot 2024-01-01 182009" src="https://github.com/jashimafitariaa/UAS/assets/148786198/5e5da81a-5c1a-49fd-9a45-7882e952f947"> 
+<img width="960" alt="Screenshot 2024-01-01 210422" src="https://github.com/jashimafitariaa/UAS/assets/148786198/548ca6f4-234a-4a63-ab5b-0b4b88f6b318">
 
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -77,32 +78,38 @@ PSQL :
 
 
 ## 12.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) ⭐⭐⭐
-
-Referensi installer Dbeaver
-Referensi 1
+langkah yang saya lakukan saat mencoba Dbeaver
+ 1. Instal DBeaver: Unduh dan instal DBeaver dari situs resminya (https: //dbeaver.io/download/).
+ 2. Ikuti petunjuk instalasi yang diberikan tergantung pada sistem operasi yang Anda gunakan.
+ 3. Koneksi database: Buka DBeaver setelah instalasi selesai.
+ 4. Klik  opsi “Database” di panel  kiri.
+ 5. Pilih "Koneksi database baru" untuk menambahkan koneksi  database.
+ 6.  Pilih tipe database yang ingin Anda sambungkan (MySQL, PostgreSQL, dll.)
+ 7.  Masukkan informasi koneksi seperti host, port, nama pengguna, dan kata sandi.
+ 8. Jelajahi Database : Setelah login, Anda dapat melihat struktur database di panel kiri.
+ 9. Pilih tabel yang ingin Anda jelajahi dan DBeaver akan menampilkan isinya.
+ 10.Jalankan kueri SQL: Buka tab SQL Editor dengan mengklik ikon SQL di bagian atas.
+ 11.Tulis kueri SQL Anda di  editor.
+ 12. Tekan tombol "Jalankan" untuk menjalankan kueri.
+ 13. Hasilnya akan ditampilkan pada tab hasil di bagian bawah.
+ 14. Melihat dan mengedit data: Untuk melihat atau mengedit data tabel, pilih tabel yang diinginkan di panel  kiri.
+ 15. Klik  tab "Data" di  tengah DBeaver.
+ 16. Di sini Anda dapat melihat, menambah, menghapus atau mengubah data.
+ 17. Menyimpan kueri favorit: Jika Anda sering menggunakan kueri tertentu, Anda bisa menyimpannya sebagai file SQL untuk digunakan kembali.
+ 18. Klik kanan pada editor SQL dan pilih "Simpan file SQL".
+ Ini adalah langkah dasar untuk menggunakan DBeaver.
+<img width="960" alt="Screenshot 2024-01-01 214859" src="https://github.com/jashimafitariaa/UAS/assets/148786198/88e611ec-ffcb-405e-ba0b-f80d3bc10d49">
 
 ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML ⭐⭐⭐⭐
-
 
 Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-
 ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) ⭐⭐
 menjelaskan komponen dari contoh url
 
-URL atau Uniform Resource Locator adalah alamat web yang digunakan untuk mengakses suatu halaman web. URL terdiri dari beberapa komponen, seperti protokol komunikasi jaringan, subdomain, nama domain, ekstensi domain, dan path ke resource. Protokol komunikasi jaringan menunjukkan jenis protokol yang digunakan untuk mengakses halaman web, seperti HTTP atau HTTPS. Subdomain adalah bagian dari sebuah domain utama yang telah berdiri sendiri. Nama domain adalah nama unik yang diberikan untuk mengidentifikasi sebuah website. Ekstensi domain menunjukkan jenis domain yang digunakan, seperti .com, .co.id, atau .org. Path ke resource menunjukkan alamat dari file atau halaman web yang ingin diakses. URL memiliki fungsi untuk memudahkan pengunjung mengakses alamat dan konten tertentu di website serta meningkatkan performa SEO website. [1][2][3][4][5]
-
-Citations:
-[1] Apa Itu URL? Pengertian URL, Contoh, dan Strukturnya https://www.hostinger.co.id/tutorial/apa-itu-url
-[2] URL: Pengertian, Fungsi dan Bagiannya - Bikin.Website https://bikin.website/blog/apa-itu-url/
-[3] Berkenalan dengan URL, Bagian Penting untuk Mengakses Internet - BAKTI Kominfo https://www.baktikominfo.id/en/informasi/pengetahuan/berkenalan_dengan_url_bagian_penting_untuk_mengakses_internet-689
-[4] Apa itu URL? Pengertian URL Beserta Fungsinya https://www.niagahoster.co.id/blog/apa-itu-url/
-[5] Apa itu URL? Pengertian, Fungsi, & Contoh Struktur yang Baik https://www.cloudeka.id/id/berita/web-dev/apa-itu-url/
-
-By Perplexity at https://www.perplexity.ai/search/83e4e89d-428d-4fce-8954-2380182231b9?s=m
-
+URL atau Uniform Resource Locator adalah alamat web yang digunakan untuk mengakses suatu halaman web. URL terdiri dari beberapa komponen, seperti protokol komunikasi jaringan, subdomain, nama domain, ekstensi domain, dan path ke resource. Protokol komunikasi jaringan menunjukkan jenis protokol yang digunakan untuk mengakses halaman web, seperti HTTP atau HTTPS. Subdomain adalah bagian dari sebuah domain utama yang telah berdiri sendiri. Nama domain adalah nama unik yang diberikan untuk mengidentifikasi sebuah website. Ekstensi domain menunjukkan jenis domain yang digunakan, seperti .com, .co.id, atau .org. Path ke resource menunjukkan alamat dari file atau halaman web yang ingin diakses. URL memiliki fungsi untuk memudahkan pengunjung mengakses alamat dan konten tertentu di website serta meningkatkan performa SEO website.
 
 
 ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
@@ -126,7 +133,7 @@ Interaktivitas halaman web : JavaScript
 
 
 
-## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML ⭐⭐⭐
 
 Referensi []
 
