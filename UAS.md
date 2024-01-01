@@ -90,6 +90,18 @@ Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokoped
 
 
 ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) ⭐⭐
+menjelaskan komponen dari contoh url
+
+URL atau Uniform Resource Locator adalah alamat web yang digunakan untuk mengakses suatu halaman web. URL terdiri dari beberapa komponen, seperti protokol komunikasi jaringan, subdomain, nama domain, ekstensi domain, dan path ke resource. Protokol komunikasi jaringan menunjukkan jenis protokol yang digunakan untuk mengakses halaman web, seperti HTTP atau HTTPS. Subdomain adalah bagian dari sebuah domain utama yang telah berdiri sendiri. Nama domain adalah nama unik yang diberikan untuk mengidentifikasi sebuah website. Ekstensi domain menunjukkan jenis domain yang digunakan, seperti .com, .co.id, atau .org. Path ke resource menunjukkan alamat dari file atau halaman web yang ingin diakses. URL memiliki fungsi untuk memudahkan pengunjung mengakses alamat dan konten tertentu di website serta meningkatkan performa SEO website. [1][2][3][4][5]
+
+Citations:
+[1] Apa Itu URL? Pengertian URL, Contoh, dan Strukturnya https://www.hostinger.co.id/tutorial/apa-itu-url
+[2] URL: Pengertian, Fungsi dan Bagiannya - Bikin.Website https://bikin.website/blog/apa-itu-url/
+[3] Berkenalan dengan URL, Bagian Penting untuk Mengakses Internet - BAKTI Kominfo https://www.baktikominfo.id/en/informasi/pengetahuan/berkenalan_dengan_url_bagian_penting_untuk_mengakses_internet-689
+[4] Apa itu URL? Pengertian URL Beserta Fungsinya https://www.niagahoster.co.id/blog/apa-itu-url/
+[5] Apa itu URL? Pengertian, Fungsi, & Contoh Struktur yang Baik https://www.cloudeka.id/id/berita/web-dev/apa-itu-url/
+
+By Perplexity at https://www.perplexity.ai/search/83e4e89d-428d-4fce-8954-2380182231b9?s=m
 
 
 
