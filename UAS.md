@@ -134,8 +134,16 @@ Interaktivitas halaman web : JavaScript
 
 
 ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML ⭐⭐⭐
-
-Referensi []
+SEO adalah singkatan dari Search Engine Optimization, yaitu langkah optimasi yang dilakukan agar website berada di hasil teratas mesin pencari, terutama Google. Strategi ini bisa menentukan kesuksesan website, terutama bagi Anda yang memanfaatkan website sebagai sumber penghasilan. jika SEO yang kita gunakan bagus maka ketika pengunjung searching di google dengan key word tertentu website kita akan menjadi yang pertama atau yang paling atas.
+Jenis-jenis SEO:
+1. on-page SEO
+   Fokus utamanya pada konten, optimasi keyword, title tag dan image alt text
+2. off-page SEO
+   fokus utamanya pada link building, influencer marketing, media sosial dan forum
+3. Technical SEO
+   fokus utamanya pada kecepatan loading, Schema markup, internal link dan sertifikat SSL
+4. Local SEO
+   fokus utamanya pada Keyword lokal, profil bisnis, Ulasan pelanggan dan konten lokal.
 
 ## 18. Mencoba Pembuatan File JSON ⭐⭐⭐
 
