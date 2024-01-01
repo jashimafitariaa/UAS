@@ -63,7 +63,7 @@ Integrated Development Environment adalah rangkaian software yang menyatukan sem
 
 
 ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank  ⭐⭐⭐⭐⭐
-
+<img width="960" alt="Screenshot 2024-01-01 182009" src="https://github.com/jashimafitariaa/UAS/assets/148786198/5e5da81a-5c1a-49fd-9a45-7882e952f947"> 
 
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
