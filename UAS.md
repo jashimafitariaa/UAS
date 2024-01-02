@@ -267,6 +267,11 @@ Data visualization adalah suatu teknik yang menggunakan representasi visual, sep
 
 
 ## 33. Mencoba Data Visualization Dengan Code  ⭐⭐
+saya mencoba dengan menggunakan google collab
+<img width="960" alt="Screenshot 2024-01-02 184211" src="https://github.com/jashimafitariaa/UAS/assets/148786198/490ac491-abef-4ca4-b903-b398141f7e75">
+<img width="960" alt="Screenshot 2024-01-02 184220" src="https://github.com/jashimafitariaa/UAS/assets/148786198/4456eaee-1edc-4708-be94-a0e326c737d9">
+
+
 
 
 ## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace⭐⭐⭐
