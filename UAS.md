@@ -256,6 +256,8 @@ saya telah mencoba text to image pada hugging face
 
 
 ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace⭐⭐⭐
+saya telah mencoba model mechine learning menggunakan google collab
+<img width="960" alt="Screenshot 2024-01-02 182309" src="https://github.com/jashimafitariaa/UAS/assets/148786198/4edf0ed0-8447-4614-b7bd-f64c05a98851">
 
 
 ## 32. Mencoba Data Visualization Dengan Tools ⭐⭐
