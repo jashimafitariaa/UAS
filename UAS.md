@@ -200,14 +200,12 @@ Alat pengembang di browser web  seperti Firefox dan Chrome adalah  alat canggih 
  <img width="960" alt="Screenshot 2024-01-02 110201" src="https://github.com/jashimafitariaa/UAS/assets/148786198/67ff74ba-9083-4187-a921-d80ab22b6e23">
  <img width="960" alt="Screenshot 2024-01-02 110236" src="https://github.com/jashimafitariaa/UAS/assets/148786198/0f04b2fd-4f9a-415d-bf5d-bcc69e6f5df9">
 
- 
-
-
-
 ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) ⭐⭐
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+Amazon Web Services (AWS) merupakan penyedia layanan cloud computing terkemuka yang menyediakan berbagai solusi dan infrastruktur IT berbasis cloud. AWS menawarkan layanan-layanan seperti Amazon EC2 untuk kapasitas komputasi virtual yang dapat diukur, AWS Lambda untuk eksekusi kode tanpa perlu mengelola server, serta layanan penyimpanan seperti Amazon S3 dan Amazon EBS. Layanan basis data, seperti Amazon RDS dan Amazon DynamoDB, memfasilitasi manajemen data relasional dan NoSQL dengan kinerja tinggi. AWS juga menyediakan solusi jaringan seperti Amazon VPC dan CloudFront untuk membangun dan mengelola jaringan serta mendistribusikan konten secara efisien. Keamanan menjadi fokus dengan layanan IAM untuk manajemen identitas dan hak akses, serta CloudWatch dan CloudTrail untuk pemantauan dan audit aktivitas di akun AWS. AWS tidak hanya menawarkan layanan komputasi dan penyimpanan, tetapi juga menyediakan berbagai alat pengembangan dan DevOps, kecerdasan buatan (AI) dan machine learning melalui layanan seperti Amazon SageMaker dan Amazon Comprehend, serta solusi untuk Internet of Things (IoT) dengan AWS IoT Core. Keberlanjutan dan pengelolaan sumber daya diimplementasikan melalui layanan seperti AWS Auto Scaling dan AWS Organizations. Dengan terus berkembangnya layanan, AWS memberikan fleksibilitas dan efisiensi bagi pengembang dan organisasi untuk membangun dan mengelola aplikasi mereka di lingkungan cloud.
+
+<img width="960" alt="Screenshot 2024-01-02 124923" src="https://github.com/jashimafitariaa/UAS/assets/148786198/402cc08b-d044-46ff-9376-106a951c0d66">
+<img width="960" alt="Screenshot 2024-01-02 124954" src="https://github.com/jashimafitariaa/UAS/assets/148786198/dec60fc1-0675-4b5c-a53c-7d0c70bd7e32">
 
 ## 24. Mencoba Penggunaan Content Management System (Wordpress) ⭐⭐⭐
 <img width="960" alt="Screenshot 2023-12-25 061244" src="https://github.com/jashimafitariaa/UAS/assets/148786198/647e2ede-9f1a-4393-90f0-8f6447b8ca66">
@@ -216,9 +214,16 @@ https://jashimafitaria1.wordpress.com/2023/12/17/kebersamaan-dan-toleransi-hukum
 
 
 ## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+untuk mengakses konten multimedia seperti image,audio,video. Saya mencoba menggunakan aplikasi capcut untuk mengedit video. di aplikasi capcut terdapat tamplate untuk memudahkan orang dalam mengedit namun bisa juga jika ingin mengedit secara manual. pada aplikasi TikTok dan Instagram juga bisa mengedit video namun hanya dengan menggunakan template saja.
+<img width="960" alt="Screenshot 2024-01-02 132846" src="https://github.com/jashimafitariaa/UAS/assets/148786198/6f8ead7b-28e9-4cb3-9065-55a02319d293">
 
 
-## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+
+## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) ⭐⭐
+saya menngunakan capcut untuk akses konten multimedia 
+![image,audio,video](https://github.com/jashimafitariaa/UAS/assets/148786198/23a677d0-08f3-4426-ba00-6a527e946536)
+didalamnya sudah terdapat audio,image dan video
 
 
 ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo ⭐⭐
