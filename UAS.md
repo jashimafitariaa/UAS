@@ -261,6 +261,9 @@ saya telah mencoba model mechine learning menggunakan google collab
 
 
 ## 32. Mencoba Data Visualization Dengan Tools ⭐⭐
+Data visualization adalah suatu teknik yang menggunakan representasi visual, seperti grafik, diagram, atau peta, untuk menyajikan informasi dan pola yang terkandung dalam data. Tujuan utama dari data visualization adalah membuat data yang kompleks menjadi lebih mudah dipahami dan diinterpretasikan oleh berbagai pemirsa. Dengan menggunakan elemen visual, data yang dapat sulit dicerna dalam bentuk mentah dapat diubah menjadi gambar atau grafik yang lebih intuitif. Melalui visualisasi, orang dapat dengan cepat mengidentifikasi pola, tren, dan anomali dalam data, yang mungkin sulit ditemukan dengan cara tradisional. Selain itu, data visualization juga berfungsi sebagai alat komunikasi efektif, memungkinkan individu untuk berbagi informasi dengan cara yang lebih menarik dan mudah dicerna oleh audiens yang mungkin tidak memiliki pengetahuan khusus tentang data. Dengan adanya berbagai alat dan teknologi untuk membuat visualisasi, seperti Microsoft Excel, Tableau, Python dengan Matplotlib atau Seaborn, dan Power BI, data visualization menjadi penting dalam mendukung pengambilan keputusan, analisis data, dan komunikasi informasi.
+<img width="960" alt="Screenshot 2024-01-02 182733" src="https://github.com/jashimafitariaa/UAS/assets/148786198/aa0aa347-aaef-4785-ad52-52babb0f7030">
+
 
 
 ## 33. Mencoba Data Visualization Dengan Code  ⭐⭐
