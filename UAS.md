@@ -286,10 +286,12 @@ pada kaggle terdapat banyak fitur yang bisa kita gunakan dan sangat membantu yai
 
 
 ## 36. Mencoba Protokol Komunikasi IoT (MQTT) ⭐
+MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol komunikasi ringan yang diciptakan untuk mendukung pertukaran data efisien antar perangkat pada kondisi jaringan yang mungkin tidak stabil atau memiliki keterbatasan bandwidth. Dikembangkan awalnya oleh IBM pada tahun 1999 dan kemudian menjadi standar terbuka, MQTT beroperasi berdasarkan model "publisher-subscriber". Dalam model ini, perangkat yang memproduksi data (publisher) mengirimkan pesan ke topik tertentu, dan perangkat yang tertarik pada data tersebut (subscriber) dapat menerima pesan tersebut dengan berlangganan ke topik yang sama. MQTT memiliki karakteristik seperti ringan, menggunakan konsep topik untuk pengaturan pesan, mendukung tingkat Quality of Service (QoS) yang berbeda, menyediakan fitur retained messages untuk menyimpan pesan terakhir pada suatu topik, dan mendukung Last Will and Testament (LWT) untuk mengirimkan pesan jika suatu klien kehilangan koneksi secara mendadak. Protokol ini secara luas digunakan dalam aplikasi Internet of Things (IoT) dan situasi di mana pertukaran data efisien dan handal dibutuhkan di atas jaringan yang mungkin tidak selalu stabil atau memiliki keterbatasan sumber daya.
+saya telah mencobanya dengan rekan kelas saya. https://mqtt.org/
 
 
 ## 37. Mencoba Memproses File CSV Menggunakan Google Colab ⭐⭐
-
+<img width="960" alt="Screenshot 2024-01-02 194905" src="https://github.com/jashimafitariaa/UAS/assets/148786198/15645f16-f93a-4b36-b480-f7b56ee02d48">
 
 ## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab ⭐⭐
 File ORC (Optimized Row Columnar) dalam konteks Big Data merujuk pada format penyimpanan data yang dioptimalkan khusus untuk efisiensi dan kinerja dalam lingkungan big data. Dikembangkan terutama untuk digunakan dengan Apache Hive, yang merupakan bagian dari ekosistem Apache Hadoop, ORC mengadopsi pendekatan penyimpanan dalam format kolom. Ini berarti nilai-nilai dari suatu kolom disimpan secara berurutan, memungkinkan kompresi yang lebih efisien dan memfasilitasi operasi bacaan selektif. File ORC mendukung berbagai algoritma kompresi, membantu mengurangi ukuran data di disk dan meningkatkan efisiensi penyimpanan. Keistimewaan lainnya melibatkan statistik kolom yang disimpan bersama data, seperti nilai minimum dan maksimum, yang dapat digunakan untuk mengoptimalkan kinerja query. Dengan menyediakan struktur penyimpanan yang dioptimalkan dan fitur-fitur ini, ORC membantu mengatasi tantangan efisiensi penyimpanan dan pemrosesan data dalam skala besar yang sering dihadapi dalam lingkungan big data.
