@@ -227,6 +227,12 @@ didalamnya sudah terdapat audio,image dan video
 
 
 ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo ⭐⭐
+logo tidak termasuk dalam kategori bahasa pemrograman. Logo adalah sebuah bahasa pemrograman sendiri yang dikembangkan pada tahun 1967 oleh Seymour Papert dan Cynthia Solomon. Logo dirancang khusus untuk pendidikan dan pengajaran pemrograman komputer kepada anak-anak. Logo menggunakan sintaksis yang sederhana dan memiliki fokus pada penggunaan perintah berbasis teks untuk mengendalikan perilaku "turtle" atau objek lain pada layar komputer.
+
+Jadi, singkatnya, Logo bukanlah logo yang biasanya kita kenal sebagai gambar atau simbol perusahaan, tetapi adalah sebuah bahasa pemrograman yang dirancang untuk tujuan pendidikan.
+
+<img width="960" alt="Screenshot 2024-01-02 161833" src="https://github.com/jashimafitariaa/UAS/assets/148786198/46522c3c-14c6-47dd-8973-87fdb102ae4f">
+
 
 
 ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab ⭐⭐⭐
