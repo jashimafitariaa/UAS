@@ -105,13 +105,27 @@ langkah yang saya lakukan saat mencoba Dbeaver
 Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+Mengakses halaman website HTML melalui web browser adalah proses yang sangat umum dan sederhana. Berikut adalah langkah-langkah umumnya:
+1.Buka Web Browser : Buka web browser seperti Chrome, Firefox, Safari, atau yang lainnya di komputer atau perangkat Anda.
+2. Alamat URL : Di bilah alamat (address bar) browser, ketikkan URL lengkap atau alamat dari halaman web yang ingin Anda akses.
+3. Tekan enter : Tekan tombol "Enter" pada keyboard atau klik ikon panah menghadap ke kanan di sebelah bilah alamat.
+4. Permintaan ke server : Browser akan mengirimkan permintaan ke server yang host halaman web tersebut.
+5. Menerima dan mengurai respons : Server akan merespons dengan mengirimkan data HTML, CSS, JavaScript, dan sumber daya lainnya ke browser.
+6. Randering Halaman : Browser akan mengurai dan merender konten HTML, mengaplikasikan gaya CSS, dan menjalankan skrip JavaScript untuk membuat halaman web interaktif.
+7. Tampilan halaman : Setelah proses rendering selesai, Anda akan melihat halaman web dalam tampilan yang dihasilkan oleh browser.
+Jika Anda ingin melihat struktur HTML dari halaman web, Anda dapat menggunakan Developer Tools di browser. Klik kanan pada elemen halaman dan pilih opsi "Inspect" atau "Inspect Element" untuk membuka panel Developer Tools dan menelusuri struktur HTML.
+<img width="960" alt="Screenshot 2024-01-02 111634" src="https://github.com/jashimafitariaa/UAS/assets/148786198/484feb0c-da7f-4249-a8f2-eda20e20cfff">
 
 ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) ⭐⭐
 
 URL atau Uniform Resource Locator adalah alamat web yang digunakan untuk mengakses suatu halaman web. URL terdiri dari beberapa komponen, seperti protokol komunikasi jaringan, subdomain, nama domain, ekstensi domain, dan path ke resource. Protokol komunikasi jaringan menunjukkan jenis protokol yang digunakan untuk mengakses halaman web, seperti HTTP atau HTTPS. Subdomain adalah bagian dari sebuah domain utama yang telah berdiri sendiri. Nama domain adalah nama unik yang diberikan untuk mengidentifikasi sebuah website. Ekstensi domain menunjukkan jenis domain yang digunakan, seperti .com, .co.id, atau .org. Path ke resource menunjukkan alamat dari file atau halaman web yang ingin diakses. URL memiliki fungsi untuk memudahkan pengunjung mengakses alamat dan konten tertentu di website serta meningkatkan performa SEO website.
+ saya mencoba menganalisis komponen apa saja yang terdapat pada https://ifdesign.com
+ protokol yang digunakan : https
+ Hostname : ifdesign
+ domain : .com
 
 
-## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain  ⭐
 Ada banyak sekali domain yang digunakan. Top Level Domain ada : .com(commercial) , .org(organization), .net ( network), .gov(goverment), .mil(military).
 dan ada juga Country code Top Level Domain yaitu : .us (united states), .jp (jepang), .id(indonesia)
 dan ada juga generic Top Level Domain seperti : .edu(edukasi),.mil , .gov,.org, .net
