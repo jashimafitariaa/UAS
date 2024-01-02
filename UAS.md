@@ -313,6 +313,7 @@ saya telah mencoba memproses file big data ORC menggunakan Google Colab
 
 
 ## 41. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+https://youtu.be/yvJ1QF6foX8?si=tcnd444HphWQWiDG ini merupakan video presentasi skripsi oleh seorang mahasiswi yang bernama Tita Rahmasari dari universitas bhayangkara jakarta raya bekasi dengan judul skripsi perancangan sistem informasi pengelolaan kas masjid berbasis web dengan metode extreme programming (xp) di masjid baitul mukhlisin bekasi.
 
 
 ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati⭐⭐⭐⭐
