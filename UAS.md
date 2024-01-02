@@ -151,6 +151,41 @@ https://github.com/jashimafitariaa/UAS/blob/6a5d3a063c0680ed8c1b89690075b1c61628
 
 
 ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)  ⭐⭐⭐⭐⭐
+Alat pengembang di browser web  seperti Firefox dan Chrome adalah  alat canggih yang membantu pengembang web menganalisis, memodifikasi, dan mengoptimalkan situs web.
+ Alat ini  membantu memahami struktur halaman, mengidentifikasi masalah kinerja, menguji dan mengoptimalkan kode JavaScript, dan melakukan banyak tugas pengembangan web lainnya.
+ Berikut  beberapa kegunaan umum alat pengembang di browser web: 1.
+ Melihat dan mengubah elemen: Elemen: Melihat dan mengubah struktur HTML dan CSS halaman .
+ Styles: Edit Live CSS style dan lihat perubahannya secara instan.
+ 2.
+ Debugging (Dihapus) Konsol: Jalankan dan uji kode JavaScript  dan lihat log atau pesan kesalahan.
+ Debugger: Menetapkan breakpoint, melacak eksekusi kode, dan mengidentifikasi kesalahan.
+ 3.
+ Pemantauan Jaringan:  Lihat semua permintaan dan respons HTTP, termasuk waktu respons, ukuran, dan detail lainnya.
+ Kinerja : Analisis kinerja halaman web  Anda dan identifikasi waktu muat dan titik lambat.
+ 4.
+ Aplikasi dan Penyimpanan: Aplikasi: Melihat dan mengelola data lokal seperti cookie, cache, dan data penyimpanan lokal.
+ Penyimpanan : Periksa dan kelola data yang disimpan di situs web  (LocalStorage, SessionStorage, Cookies).
+ 5.
+ Emulasi Seluler:  Uji respons dan tampilan halaman di berbagai perangkat, termasuk mode simulasi perangkat seluler.
+ 6.
+ Analisis Keamanan: Validasi sertifikat SSL, identifikasi potensi ancaman keamanan, dan pastikan penggunaan protokol aman (HTTPS).
+ 7.
+ Manajemen Memori: Memantau penggunaan memori oleh aplikasi, mendeteksi kebocoran memori, dan mengoptimalkan kinerja.
+ 8.
+ Lighthouse: Mengevaluasi kinerja, aksesibilitas, praktik SEO, dan aspek pengembangan lainnya.
+ Berikan saran untuk meningkatkan kualitas website Anda.
+ 9.
+ Animasi dan Pengaturan Waktu: Animasi: Kelola dan analisis animasi di halaman Anda.
+ Timing: Menampilkan waktu pemrosesan dan pemuatan untuk  elemen halaman.
+ 10.
+ Utilitas konsol: Utilitas seperti $_, temp0: Memudahkan untuk mengedit dan menggunakan hasil sebelumnya di konsol.
+ Meskipun setiap browser mengimplementasikan alat pengembang yang serupa, mungkin ada sedikit perbedaan.
+ Alat ini memungkinkan pengembang web  mengidentifikasi, memahami, dan menyelesaikan masalah  situs web dengan lebih efisien
+ <img width="960" alt="Screenshot 2024-01-02 110201" src="https://github.com/jashimafitariaa/UAS/assets/148786198/67ff74ba-9083-4187-a921-d80ab22b6e23">
+ <img width="960" alt="Screenshot 2024-01-02 110236" src="https://github.com/jashimafitariaa/UAS/assets/148786198/0f04b2fd-4f9a-415d-bf5d-bcc69e6f5df9">
+
+ 
+
 
 
 ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) ⭐⭐
