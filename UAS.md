@@ -244,8 +244,15 @@ Jadi, singkatnya, Logo bukanlah logo yang biasanya kita kenal sebagai gambar ata
 
 ## 29. Mencoba Web Tool AI Discriminative (Image Classification) ⭐⭐⭐⭐
 
+<img width="960" alt="Screenshot 2024-01-02 171359" src="https://github.com/jashimafitariaa/UAS/assets/148786198/6e7a6569-c093-4314-95ae-ae5070b924b0">
+
+
 
 ## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) ⭐⭐⭐⭐
+saya telah mencoba text to image pada hugging face
+
+<img width="960" alt="Screenshot 2024-01-02 171738" src="https://github.com/jashimafitariaa/UAS/assets/148786198/ddf5ab9f-0d49-477b-b998-b781042be779">
+
 
 
 ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace⭐⭐⭐
