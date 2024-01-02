@@ -107,7 +107,6 @@ Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasik
 Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) ⭐⭐
-menjelaskan komponen dari contoh url
 
 URL atau Uniform Resource Locator adalah alamat web yang digunakan untuk mengakses suatu halaman web. URL terdiri dari beberapa komponen, seperti protokol komunikasi jaringan, subdomain, nama domain, ekstensi domain, dan path ke resource. Protokol komunikasi jaringan menunjukkan jenis protokol yang digunakan untuk mengakses halaman web, seperti HTTP atau HTTPS. Subdomain adalah bagian dari sebuah domain utama yang telah berdiri sendiri. Nama domain adalah nama unik yang diberikan untuk mengidentifikasi sebuah website. Ekstensi domain menunjukkan jenis domain yang digunakan, seperti .com, .co.id, atau .org. Path ke resource menunjukkan alamat dari file atau halaman web yang ingin diakses. URL memiliki fungsi untuk memudahkan pengunjung mengakses alamat dan konten tertentu di website serta meningkatkan performa SEO website.
 
