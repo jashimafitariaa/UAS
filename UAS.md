@@ -310,6 +310,11 @@ saya telah mencoba memproses file big data ORC menggunakan Google Colab
 
 
 ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) ⭐⭐⭐⭐
+https://dblp.org/ DBLP, singkatan dari "Digital Bibliography & Library Project," adalah basis data bibliografi yang menyediakan informasi mengenai publikasi ilmiah di bidang ilmu komputer dan sains informasi. Proyek ini didirikan pada tahun 1993 oleh Michael Ley dan memiliki tujuan untuk mengumpulkan dan menyajikan informasi mengenai publikasi ilmiah dalam bentuk basis data online. DBLP mencakup jurnal, konferensi, dan buku di bidang ilmu komputer, sains informasi, dan bidang terkait.
+
+Basis data DBLP menyediakan catatan bibliografi yang mencakup informasi seperti judul publikasi, nama penulis, nama konferensi atau jurnal, dan tahun publikasi. DBLP terutama fokus pada publikasi dalam komunitas ilmu komputer dan menyajikan data dengan cara yang mudah diakses dan dicari.
+
+Seiring waktu, DBLP telah berkembang menjadi referensi utama bagi peneliti, mahasiswa, dan profesional di bidang ilmu komputer untuk melacak dan menemukan informasi terkini tentang publikasi ilmiah dalam disiplin tersebut. Situs web DBLP (dblp.org) memungkinkan pengguna untuk mencari publikasi berdasarkan berbagai kriteria, termasuk nama penulis, judul, atau konferensi tertentu.
 
 
 ## 41. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
