@@ -162,7 +162,7 @@ Jenis-jenis SEO:
 
 https://github.com/jashimafitariaa/UAS/blob/6a5d3a063c0680ed8c1b89690075b1c6162824db/file.json
 ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML ⭐⭐⭐
-https://jashimafitariaa.github.io/html/
+https://jashimafitariaa.github.io/jashima.github.io/
 
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service ⭐⭐⭐
 
