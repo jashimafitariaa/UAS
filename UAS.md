@@ -265,6 +265,12 @@ pada kaggle terdapat banyak fitur yang bisa kita gunakan dan sangat membantu yai
 
 
 ## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab ⭐⭐
+File ORC (Optimized Row Columnar) dalam konteks Big Data merujuk pada format penyimpanan data yang dioptimalkan khusus untuk efisiensi dan kinerja dalam lingkungan big data. Dikembangkan terutama untuk digunakan dengan Apache Hive, yang merupakan bagian dari ekosistem Apache Hadoop, ORC mengadopsi pendekatan penyimpanan dalam format kolom. Ini berarti nilai-nilai dari suatu kolom disimpan secara berurutan, memungkinkan kompresi yang lebih efisien dan memfasilitasi operasi bacaan selektif. File ORC mendukung berbagai algoritma kompresi, membantu mengurangi ukuran data di disk dan meningkatkan efisiensi penyimpanan. Keistimewaan lainnya melibatkan statistik kolom yang disimpan bersama data, seperti nilai minimum dan maksimum, yang dapat digunakan untuk mengoptimalkan kinerja query. Dengan menyediakan struktur penyimpanan yang dioptimalkan dan fitur-fitur ini, ORC membantu mengatasi tantangan efisiensi penyimpanan dan pemrosesan data dalam skala besar yang sering dihadapi dalam lingkungan big data.
+saya telah mencoba memproses file big data ORC menggunakan Google Colab
+<img width="960" alt="Screenshot 2024-01-02 160021" src="https://github.com/jashimafitariaa/UAS/assets/148786198/89f7307d-accc-4da5-906c-47374af6fb12">
+<img width="960" alt="Screenshot 2024-01-02 160029" src="https://github.com/jashimafitariaa/UAS/assets/148786198/3954aecd-29e1-4eea-8c02-c002c2bce84b">
+
+
 
 
 ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal ⭐⭐⭐⭐⭐
