@@ -238,6 +238,10 @@ Jadi, singkatnya, Logo bukanlah logo yang biasanya kita kenal sebagai gambar ata
 ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab ⭐⭐⭐
 
 
+<img width="960" alt="Screenshot 2024-01-02 170433" src="https://github.com/jashimafitariaa/UAS/assets/148786198/42accb34-017d-454e-a24a-08d5cb5b1c4a">
+
+<img width="960" alt="Screenshot 2024-01-02 170446" src="https://github.com/jashimafitariaa/UAS/assets/148786198/ca4805f1-55e6-41b9-b6a0-9f82cffa33fb">
+
 ## 29. Mencoba Web Tool AI Discriminative (Image Classification) ⭐⭐⭐⭐
 
 
