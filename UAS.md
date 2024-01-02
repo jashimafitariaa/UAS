@@ -69,6 +69,12 @@ Integrated Development Environment adalah rangkaian software yang menyatukan sem
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 
+  https://github.com/jashimafitariaa/jashimafitariaa/blob/0d987b797be576a37158fa40fa67f878fb7b3dc0/AestQuran.md
+  <img width="960" alt="Screenshot 2024-01-02 202856" src="https://github.com/jashimafitariaa/UAS/assets/148786198/b8fff7dd-2124-4690-b6e3-66d1b5f5a2ad">
+
+   
+
+
 ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.)  ⭐⭐⭐
 MySQL :
 <img width="960" alt="Screenshot 2024-01-01 160250" src="https://github.com/jashimafitariaa/UAS/assets/148786198/0544ae7b-c227-4bc1-a02e-b5759b90ea41">
