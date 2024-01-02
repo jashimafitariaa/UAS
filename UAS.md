@@ -165,6 +165,7 @@ https://github.com/jashimafitariaa/UAS/blob/6a5d3a063c0680ed8c1b89690075b1c61628
 https://jashimafitariaa.github.io/jashima.github.io/
 
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service ⭐⭐⭐
+https://jashimafitaria1.wordpress.com/2024/01/02/manfaat-teknologi-dalam-menghafal-al-quran/
 
 
 ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman  ⭐⭐
