@@ -156,13 +156,15 @@ Jenis-jenis SEO:
 
 https://github.com/jashimafitariaa/UAS/blob/6a5d3a063c0680ed8c1b89690075b1c6162824db/file.json
 ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML ⭐⭐⭐
-
+https://jashimafitariaa.github.io/html/
 
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service ⭐⭐⭐
 
 
 ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman  ⭐⭐
-
+saya telah mencoba menggunakan postman 
+<img width="960" alt="Screenshot 2024-01-02 123254" src="https://github.com/jashimafitariaa/UAS/assets/148786198/71e7e0b8-fe35-43b3-9ed8-d3d8debad0a4">
+<img width="960" alt="Screenshot 2024-01-02 123448" src="https://github.com/jashimafitariaa/UAS/assets/148786198/c4a593c1-c746-427f-93c7-3be6c442050e">
 
 ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome)  ⭐⭐⭐⭐⭐
 Alat pengembang di browser web  seperti Firefox dan Chrome adalah  alat canggih yang membantu pengembang web menganalisis, memodifikasi, dan mengoptimalkan situs web.
